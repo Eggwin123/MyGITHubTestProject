@@ -11,12 +11,9 @@ namespace MyGITHubTestProject.Controllers
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
 
 
-
-            //just a change to the code to see branching and updating
-
-
-
             //another change
+
+            //change 3 deletes change 1
 
 
         };
