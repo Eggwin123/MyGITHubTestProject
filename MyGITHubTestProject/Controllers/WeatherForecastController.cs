@@ -9,6 +9,10 @@ namespace MyGITHubTestProject.Controllers
         private static readonly string[] Summaries = new[]
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+
+
+
+            //just a change to the code to see branching and updating
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
